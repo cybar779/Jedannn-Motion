@@ -1,0 +1,42 @@
+{
+  "id": "./",
+  "name": "Jedannn Motion",
+  "short_name": "Jedannn",
+  "description": "Jedannn Motion — editor motion graphics dan video berbasis web.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#0E0C1D",
+  "theme_color": "#0E0C1D",
+  "prefer_related_applications": false,
+  "categories": [
+    "photo",
+    "video",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/open-motion-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/open-motion-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/open-motion-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
