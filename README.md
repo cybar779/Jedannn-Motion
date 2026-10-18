@@ -33,6 +33,7 @@
 Open Motion is still under active development and is **not production-ready yet**.
 Features, project formats, UI behavior, and internal systems may continue to change.
 
+by openmotionapp.my.id
 ---
 
 
