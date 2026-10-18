@@ -39,11 +39,11 @@ Features, project formats, UI behavior, and internal systems may continue to cha
 
 ---
 
-## Try Open Motion
+## Try Jedannn Motion
 
 Open Motion currently runs directly in a modern web browser:
 
-### [▶ Launch Open Motion](https://hada45.github.io/Open-Motion/)
+### [▶ Launch Open Motion](https://am.jedannn.my.id/)
 
 **Recommended browser:** Google Chrome.
 
@@ -53,9 +53,9 @@ No installation, build step, or development server is required.
 
 ---
 
-## About Open Motion
+## About Jedannn Motion
 
-**Open Motion** is a free and open-source browser-based animation and video
+**Jedannn Motion** is a free and open-source browser-based animation and video
 editing project designed with a strong focus on mobile workflows.
 
 The project currently focuses on keyframe animation, vector editing,
